@@ -1,0 +1,15 @@
+README:
+
+[MVC] The Story Making Game:
+
+1) Create a variable and capture input
+2) Create a separate variable for each piece of input
+3) Add an alert to tell the visitor that they're finished
+4) Combine the input with other strings to create a message
+5) Print the story to the page
+
+Additional Features:
+- Checking for vowel at the beginning of the adjective/verb user input and changing 'a' to 'an' when necessary
+- Array of funny sentences.
+- User can create their own sentences
+- Update CSS (responsive design)
